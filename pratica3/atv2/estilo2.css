@@ -1,0 +1,28 @@
+html,
+body{
+font-size: 25;
+font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    width: 20rem;
+    height: 10rem;
+    border: 10px solid blueviolet;
+    margin: 5rem auto;
+    background-color:aliceblue;
+    padding: 4rem;
+
+}
+
+h1{
+    color: brown;
+    padding: 0.5rem;
+    font-size: 3rem;
+}
+a{
+    color:blue;
+    background-color: aquamarine;
+    padding: 0.9rem;
+    text-decoration: none;
+    border-radius: 15px;
+}
